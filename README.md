@@ -1,6 +1,15 @@
-# ShinyCoinAssets
+# -ShinyCoinAssets
 **a brief update-log for shinycoin.
-Please purchase subscription for custom layouts and premium content.**
+Every version will be uploaded here.**
 
-# Terms-of-use
-**You cannot crack the content using apk-editors or...**
+
+
+
+
+
+
+
+
+
+# -PremiumContent
+**includes custom-layouts and editable javascripts & editbale assets(png,jpg,wav)**
