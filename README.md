@@ -1,2 +1,2 @@
 # ShinyCoinAssets
-a brief update-log for shinycoin.
+**a brief update-log for shinycoin.**
